@@ -2,7 +2,11 @@
 
 ## backlog
 
-自分のAPIでPrivateなデータを取得する対応
+Activitiesをより見せる用に変更する これはマタ今度
+
+Vercelの挙動などを確認する
+
+done 自分のAPIでPrivateなデータを取得する対応
 
 
 ## REF
